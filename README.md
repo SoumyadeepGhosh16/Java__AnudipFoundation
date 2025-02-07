@@ -1,0 +1,1 @@
+A Java JDBC Maven Project is a Java-based application that uses JDBC (Java Database Connectivity) to interact with relational databases. It is managed using Maven, a build automation tool that helps manage dependencies, build processes, and project configurations efficiently.
